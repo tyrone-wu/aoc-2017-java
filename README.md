@@ -1,5 +1,9 @@
-# 🎄 Advent of Code {year}
+# 🎄 Advent of Code 2017
+
 Your solutions for [Advent of Code](https://adventofcode.com/) written in Java ☕.
+
+![Printer](./printer.png)
+
 ## Template setup
 ### Configure repository
 1. Open [the template repository](https://github.com/thermoweb/aoc-java-template) on GitHub
